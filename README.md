@@ -1,1 +1,1 @@
-# SQL-Execurions Practice Code-
+# SQL-Executions Practice Code-
